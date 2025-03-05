@@ -1,5 +1,3 @@
-# Soham's Portfolio Website
-
 Welcome to the repository for my personal portfolio website! 🚀
 
 ## 🌐 Live Demo
@@ -30,12 +28,11 @@ This is my personal portfolio website, showcasing my skills, projects, and exper
 
 ```
 📦 portfolio-website
-├── 📁 src
-│   ├── 📁 assets
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-├── |── mediaqueries.css
+│── 📁 assets
+│── index.html
+│── style.css
+│── script.js
+├── mediaqueries.css
 ├── 📄 README.md
 └── 📄 .gitignore
 ```
@@ -80,14 +77,12 @@ The website is deployed on Netlify. To deploy your own version:
 
 If you want to get in touch, feel free to connect:
 
-- LinkedIn: https\://www\.linkedin.com/in/soham-basuri-a24435255/
+- LinkedIn: [https://www.linkedin.com/in/soham-basuri-a24435255/](https://www.linkedin.com/in/soham-basuri-a24435255/)
 - Email: [your-sohambasuri2015@gmail.com](mailto\:your-sohambasuri2015@gmail.com)
 
 ## ⭐ Contributing
 
 If you find any issues or improvements, feel free to open a pull request or issue.
 
----
 
-Made with ❤️ by Soham
 
